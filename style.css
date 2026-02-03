@@ -1,3 +1,6 @@
+
+
+
 body {
   background-color: #282829;
   color: lightblue;
@@ -231,7 +234,23 @@ footer {
 @media (max-width: 768px) {
     .navbar{
       display:none;
+
     }
+    .hamburger {
+    display: block;
+    font-size: 3.2rem;
+  }
+   }
+  .hero-header {
+    font-size: 3.6rem;
+  }
+  .section-title {
+    font-size: 2.6rem;
+  }
+  .section {
+    margin-top: 4.8rem;
+  }
+
   
 
   .hero-content h2 {
