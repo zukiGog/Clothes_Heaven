@@ -239,7 +239,7 @@ footer {
     .hamburger {
     display: block;
     font-size: 3.2rem;
-  }
+  
    }
   .hero-header {
     font-size: 3.6rem;
@@ -250,9 +250,9 @@ footer {
   .section {
     margin-top: 4.8rem;
   }
-
-  
-
+  .cards {
+    flex:grid;
+  }
   .hero-content h2 {
     font-size: 32px;
   }
