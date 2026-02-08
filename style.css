@@ -251,7 +251,8 @@ footer {
     margin-top: 4.8rem;
   }
   .cards {
-    flex:grid;
+    display:grid;
+    
   }
   .hero-content h2 {
     font-size: 32px;
